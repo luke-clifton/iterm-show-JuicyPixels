@@ -13,7 +13,7 @@ homepage:            https://github.com/luke-clifton/iterm-show-JuicyPixels
 copyright:           (c) 2018 Luke Clifton
 category:            Development
 build-type:          Simple
-extra-source-files:  ChangeLog.md, README.md, dock/*.png
+extra-source-files:  ChangeLog.md, README.md, doc/*.png
 cabal-version:       >=1.10
 source-repository head
   type: git
